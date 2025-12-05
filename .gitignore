@@ -103,3 +103,10 @@ InitTestScene*.unity*
 *.mp4
 *.wav
 Assets/StreamingAssets/
+
+# Large textures
+Assets/08_ExternPackages/PIANO/Textures/
+Assets/08_ExternPackages/the-japanese-school-corridor/
+
+# Firebase plugins (if too large)
+Assets/Firebase/Plugins/
