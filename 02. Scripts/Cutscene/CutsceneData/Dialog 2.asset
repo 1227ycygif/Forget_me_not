@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 202a5a1d3c531da44805a9a5ba7fb4ab, type: 3}
+  m_Name: Dialog 2
+  m_EditorClassIdentifier: 
+  sceneName: 3
+  cutsceneType: 1
+  nextScene: DemoScene
+  nextCutScene: 4
+  skippable: 1
+  videoClip: {fileID: 0}
+  bgmIdx: 0
+  background: {fileID: 21300000, guid: 40867210c7bb27141832a7d3e63b2a05, type: 3}
+  girlCharacterSprite: {fileID: 21300000, guid: aca413a73679e7e43a74c67d89776412, type: 3}
+  boyCharacterSprite: {fileID: 21300000, guid: a310a3250b1048a42a504444c2d2c95c, type: 3}
+  lines:
+  - speakerName: "\uC5D8\uB9C8"
+    isSolo: 0
+    text: "\uD14C\uC2A4\uD2B8 \uCEF7\uC2E0\uC785\uB2C8\uB2E4."
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: "\uC5D8\uB9C8"
+    isSolo: 1
+    text: "\uB3C5\uBC31 \uC635\uC158\uC744 \uCCB4\uD06C\uD558\uBA74 \uB2E4\uC74C\uACFC
+      \uAC19\uC774 \uB429\uB2C8\uB2E4"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: "\uD638\uD0C0\uB85C"
+    isSolo: 1
+    text: "\uB3C5\uBC31 \uC778\uBB3C\uC774 \uBC14\uB00C\uB294 \uCC98\uB9AC\uB294
+      \uC774\uB807\uAC8C \uB429\uB2C8\uB2E4."
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: "\uC5D8\uB9C8"
+    isSolo: 0
+    text: "\uB3C5\uBC31\uC744 \uD574\uC81C\uD558\uBA74 \uB2E4\uC74C\uACFC \uAC19\uC774
+      \uB3CC\uC544\uC635\uB2C8\uB2E4."
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: "\uD638\uD0C0\uB85C"
+    isSolo: 0
+    text: "\uBC30\uACBD \uBCC0\uACBD \uC218\uD589\uD558\uBA74 \uB2E4\uC74C\uACFC
+      \uAC19\uC774 \uBC14\uB01D\uB2C8\uB2E4"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 21300000, guid: 5ed6afcb35710a74ba4627e33faab2aa, type: 3}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: "\uC5D8\uB9C8"
+    isSolo: 0
+    text: "\uBC30\uACBD \uBCC0\uACBD\uC744 \uC6D0\uB798\uB300\uB85C \uB3CC\uB9AC\uB294
+      \uAC83\uB3C4 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0

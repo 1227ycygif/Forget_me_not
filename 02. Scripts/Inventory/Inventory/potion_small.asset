@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6699c095e4f40304d839027632f9ffbf, type: 3}
+  m_Name: potion_small
+  m_EditorClassIdentifier: 
+  itemId: potion_small
+  displayName: "\uD3EC\uC158"
+  icon: {fileID: -220148188, guid: df0f67e95fea4ff44ac97e379c579fca, type: 3}
+  category: 0
+  stackable: 1
+  maxStack: 20
+  description: 
+  value: 1

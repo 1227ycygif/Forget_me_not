@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 202a5a1d3c531da44805a9a5ba7fb4ab, type: 3}
+  m_Name: Amy
+  m_EditorClassIdentifier: 
+  sceneName: 6
+  cutsceneType: 1
+  nextScene: scCutscene
+  nextCutScene: 5
+  skippable: 1
+  videoClip: {fileID: 0}
+  bgmIdx: 3
+  background: {fileID: 21300000, guid: 488b6af8e2d47d8478dcd278e2509bee, type: 3}
+  girlCharacterSprite: {fileID: 0}
+  boyCharacterSprite: {fileID: 21300038, guid: 844b8fe092401b34e8dd39b2a672bdd4, type: 3}
+  lines:
+  - speakerName: ???
+    isSolo: 1
+    text: "( \uC228 \uC26C\uB294\uAC8C \uD798\uB4E4\uB2E4. )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: "( \uBC14\uB85C \uBC11\uC5D0\uB294 \uC5B8\uC5B4\uC758 \uC0AC\uB9C9\uC774
+      \uD3BC\uCCD0\uC9C4\uB2E4. )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: "( \uBAB8\uC774 \uC6C0\uC9C1\uC774\uC9C0 \uC54A\uB294\uB2E4. \uC544\uBB34\uAC83\uB3C4
+      \uC0DD\uAC01\uD558\uAE30 \uC2EB\uB2E4. \uB098\uB97C \uBE44\uCD94\uB294 \uC800
+      \uD0DC\uC591\uC744 \uC5C6\uC560\uBC84\uB9AC\uACE0 \uC2F6\uB2E4. )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: ...
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: "( \uC791\uD488\uC758 \uC81C\uBAA9\uC740 \uBB50\uB85C \uD560\uAE4C )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: ...
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: "( *\uADF8\uB798\uC11C \uB098\uB294 \uC74C\uC545\uC744 \uADF8\uB9CC\uB450\uC5C8\uB2E4*
+      )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: "( \uC774\uAC8C \uC88B\uACA0\uC5B4 )"
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
+  - speakerName: ???
+    isSolo: 1
+    text: '....... '
+    overrideCharacterSprite: {fileID: 0}
+    overrideBackgroundSprite: {fileID: 0}
+    soundClip: {fileID: 0}
+    autoNextDelay: 0
