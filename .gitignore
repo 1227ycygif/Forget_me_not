@@ -102,6 +102,10 @@ InitTestScene*.unity*
 *.fbx
 *.mp4
 *.wav
+*.glb
+*.zip
+*_2K.png
+*_Normal_2K.png
 Assets/StreamingAssets/
 
 # Large textures
@@ -110,3 +114,6 @@ Assets/08_ExternPackages/the-japanese-school-corridor/
 
 # Firebase plugins (if too large)
 Assets/Firebase/Plugins/
+
+# Specific large folders
+Assets/02_Scripts/Puzzle/Stage1Puzzle/grand-piano/
